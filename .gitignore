@@ -1,0 +1,3 @@
+*.class
+.DS_Store
+setup_git.sh
