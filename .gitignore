@@ -1,3 +1,10 @@
+con# Java compiled files
 *.class
+bin/
+
+# OS specific files
 .DS_Store
+
+# Scripts
 setup_git.sh
+cleanup.sh
